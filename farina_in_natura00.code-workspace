@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "farina_in_natura00",
+			"path": "."
+		}
+	],
+	"settings": {
+		"notebook.output.textLineLimit": 1000
+	}
+}
